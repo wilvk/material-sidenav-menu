@@ -1,6 +1,7 @@
 md-menu-sidenav-title {
     padding: 0px 12px 0px 20px;
     cursor: pointer;
+    background-color: SlateBlue;
 }
 
 md-menu-sidenav-item h1 {
@@ -22,6 +23,7 @@ md-menu-sidenav-subitem {
     font-size: 14px;
     color: #414141;
     padding: 10px 1px 10px 1px;
+    background-color: RoyalBlue;
 }
 
 md-menu-sidenav-content {
