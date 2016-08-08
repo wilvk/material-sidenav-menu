@@ -1,9 +1,9 @@
 {
   "name": "angular-material-sidenav-menu",
-  "version": "0.0.2",
-  "homepage": "https://github.com/olimou/material-sidenav-menu",
+  "version": "0.0.3",
+  "homepage": "http://github.com/wilvk/material-sidenav-menu",
   "authors": [
-    "olimou <olimou@gmail.com>"
+    "willvk <willvk@gmail.com>"
   ],
   "description": "Menu collapse for Angular-Material",
   "main": [
@@ -38,6 +38,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/olimou/material-sidenav-menu.git"
+    "url": "git://github.com/wilvk/material-sidenav-menu.git"
   }
 }
